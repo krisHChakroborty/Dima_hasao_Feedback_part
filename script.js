@@ -1,9 +1,9 @@
 $(document).ready(function(){
 
-$(".img-thumbnail").hover(function(){
-    $(this).animate({
-        "width" : "5000px",
-    })
+$(".submit").click(function(){
+
+    alert("Successfully Submitted!!")
+  alert("Thank You For Visit Dima Hasao!!!")
 })
 
 
